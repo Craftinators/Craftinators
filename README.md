@@ -1,16 +1,13 @@
-### Hi there 👋
+<h2 align="center"> Hi there, I'm Craftinators! 👋 </h2>
 
-<!--
-**Craftinators/Craftinators** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer from New York! I take pride in *crafting* clean, efficient, and reliable code that solves real-world problems. I'm always striving to learn new techniques, technologies, and programming languages that will help me create better software. My expertise lies in TypeScript, Java, and C#, but I'm always eager to expand my skill set and take on new challenges.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Craftinators&style=for-the-badge&color=af3a03&label=Views" />
+  <img src="https://komarev.com/ghpvc/?username=Craftinators&style=for-the-badge&color=427b58&label=Views" />
+  <img src="https://komarev.com/ghpvc/?username=Craftinators&style=for-the-badge&color=b57614&label=Views" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Craftinators&theme=gruvbox-light&border_radius=10" />
+</p>
