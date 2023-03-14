@@ -1,9 +1,7 @@
-<h1 align="center"> Hi there, I'm Craftinators! 👋</h1> 
+<h1 align="center"> Hi there, I'm Craftinators! 👋 <img src="https://komarev.com/ghpvc/?username=Craftinators&style=for-the-badge&color=427b58&label=Views" /></h1> 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Craftinators&style=for-the-badge&color=af3a03&label=Views" />
-  <img src="https://komarev.com/ghpvc/?username=Craftinators&style=for-the-badge&color=427b58&label=Views" />
-  <img src="https://komarev.com/ghpvc/?username=Craftinators&style=for-the-badge&color=b57614&label=Views" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Craftinators&theme=gruvbox-light&border_radius=10" />
 </p>
 
 I'm a developer from New York! I take pride in *crafting* clean, efficient, and reliable code that solves real-world problems. I'm always striving to learn new techniques, technologies, and programming languages that will help me create better software. My expertise lies in [`TypeScript`](https://www.typescriptlang.org/) (and JavaScript 👀), [`Java`](https://www.java.com/en/download/help/whatis_java.html), & [`C#`](https://learn.microsoft.com/en-us/dotnet/csharp/).
@@ -27,6 +25,4 @@ I'm a self-taught developer, and I have honed my skills through a combination of
 ## 📫 How to reach me
 - <img src="https://raw.githubusercontent.com/Craftinators/Craftinators/main/logo-discord.png" align="center">  : [`Craftinators#5395`](https://discord.com/users/574751064633638936) 
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Craftinators&theme=gruvbox-light&border_radius=10" />
-</p>
+*Thanks to [vladfrangu](https://github.com/vladfrangu) for inspiration* ❤️
