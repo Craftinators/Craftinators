@@ -21,7 +21,6 @@ I'm a self-taught developer, and I have honed my skills through a combination of
 ## 🔭 Projects
 - 🕯️ [`incandescence`](https://github.com/Craftinators/incandescence) - a typescript translation of a popular [`C#`](https://learn.microsoft.com/en-us/dotnet/csharp/) library [`Spectre.Console`](https://github.com/spectreconsole/spectre.console)
 - 🌈 [`HMCCosmetics`](https://github.com/HibiscusMC/HMCCosmetics) - the all-in-one cosmetics solution for your minecraft server
-- ⚔️ [`Framework`](https://github.com/Craftinators/Framework) - a minecraft rpg paper plugin
 > This is not an exhaustive list 👀, check my [`repositories`](https://github.com/Craftinators?tab=repositories) for a more complete list 😄
 
 ## 📫 How to reach me
