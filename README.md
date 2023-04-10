@@ -7,7 +7,7 @@
 I'm a developer from New York! I take pride in *crafting* clean, efficient, and reliable code that solves real-world problems. I'm always striving to learn new techniques, technologies, and programming languages that will help me create better software. My expertise lies in [`TypeScript`](https://www.typescriptlang.org/) (and JavaScript 👀), [`Java`](https://www.java.com/en/download/help/whatis_java.html), & [`C#`](https://learn.microsoft.com/en-us/dotnet/csharp/).
 - 😅 ~~Love~~-Hate relationship with Python. I'm always willing to give it a go (sometimes) ☹️
 - 💙 [`TypeScript`](https://www.typescriptlang.org/) is my favorite language
-- 🌱 I want to learn [`Rust`](https://www.rust-lang.org/)! 
+- 🌱 I want to learn [`Rust`](https://www.rust-lang.org/) and [`C++`](https://cplusplus.com/)! 
 
 ## 📚 Experience
 I'm a self-taught developer, and I have honed my skills through a combination of hands-on experience and independent learning. My dedication to continuous learning and improvement has helped me stay ahead of the curve in an ever-evolving field, and I am always excited to take on new challenges and opportunities for growth.
