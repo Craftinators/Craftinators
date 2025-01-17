@@ -1,7 +1,9 @@
 <h1 align="center"> Hi there, I'm Craftinators! 👋 <img src="https://komarev.com/ghpvc/?username=Craftinators&style=for-the-badge&color=427b58&label=Views" /></h1> 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-five-fawn.vercel.app?user=Craftinators&theme=gruvbox-light&border_radius=10" alt="GitHub Streak" />
+   <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-five-fawn.vercel.app?user=Craftinators&theme=gruvbox-light&border_radius=10" alt="GitHub Streak" />
+  </a>
 </p>
 
 I'm a developer from New York! I take pride in *crafting* clean, efficient, and reliable code that solves real-world problems. I'm always striving to learn new techniques, technologies, and programming languages that will help me create better software. My expertise lies in [`TypeScript`](https://www.typescriptlang.org/) (and JavaScript 👀), [`Java`](https://www.java.com/en/download/help/whatis_java.html), & [`C#`](https://learn.microsoft.com/en-us/dotnet/csharp/).
