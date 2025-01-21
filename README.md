@@ -20,7 +20,7 @@ I'm a self-taught developer, and I have honed my skills through a combination of
 - Willing to learn new things all the time, and work in teams (But I love working solo as well!) 😄
 
 ## 🔭 Projects
-- 🕯🏰 [`Barium`](https://github.com/Craftinators/Barium) - a papermc plugin of my own spin of a popular minigame "[`Dwarves vs. Zombies`](https://www.reddit.com/r/DvZCommunity/)!
+- 🏰 [`Barium`](https://github.com/Craftinators/Barium) - a papermc plugin of my own spin of a popular minigame "[`Dwarves vs. Zombies`](https://www.reddit.com/r/DvZCommunity/)!
 - 🌈 [`HMCCosmetics`](https://github.com/HibiscusMC/HMCCosmetics) - the all-in-one cosmetics solution for your minecraft server
 > This is not an exhaustive list 👀, check my [`repositories`](https://github.com/Craftinators?tab=repositories) for a more complete list 😄
 
