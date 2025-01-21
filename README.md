@@ -25,6 +25,6 @@ I'm a self-taught developer, and I have honed my skills through a combination of
 > This is not an exhaustive list 👀, check my [`repositories`](https://github.com/Craftinators?tab=repositories) for a more complete list 😄
 
 ## 📫 How to reach me
-- <img src="https://raw.githubusercontent.com/Craftinators/Craftinators/main/logo-discord.png" align="center">  : [`Craftinators#5395`](https://discord.com/users/574751064633638936) 
+- <img src="https://raw.githubusercontent.com/Craftinators/Craftinators/main/logo-discord.png" align="center">  : [`Craftinators`](https://discord.com/users/574751064633638936) 
 
 *Thanks to [vladfrangu](https://github.com/vladfrangu) for inspiration* ❤️
